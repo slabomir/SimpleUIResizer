@@ -1,0 +1,7 @@
+## Interface: 80000
+## Title: Simple UI Resizer
+## Author: Slawomir Zalupka
+## Version: 0.1
+## DefaultState: Enabled
+
+SimpleUIResizer.xml
